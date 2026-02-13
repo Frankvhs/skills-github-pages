@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "My First Blog"
+date: 2026-02-13
 ---
 **Hellooooooo**
